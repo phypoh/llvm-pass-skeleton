@@ -1,6 +1,8 @@
 # llvm-pass-skeleton
 
-A completely useless LLVM pass.
+Sample LLVM pass templates. Adapted from [Prof Adrian Sampson](https://github.com/sampsyo)'s template to include support for Module passes. 
+
+
 It's for LLVM 14.
 
 Build:
